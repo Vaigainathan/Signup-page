@@ -14,7 +14,7 @@ This project is a simple full-stack application with a **React frontend** and an
 ## 📁 Project Structure
 
 my-app/
-├── backend/
+├── backend/ <be>
 │ └── server.js # Express server handling signup logic
 │ └── data.json # Stores user signup data
 ├── frontend/
