@@ -11,20 +11,6 @@ This project is a simple full-stack application with a **React frontend** and an
 
 ---
 
-## 📁 Project Structure
-
-my-app/
-├── backend/ <be>
-│ └── server.js # Express server handling signup logic
-│ └── data.json # Stores user signup data
-├── frontend/
-│ ├── LoginPage.jsx # React component for login
-│ ├── SignupPage.jsx # React component for signup
-│ └── ... # Other frontend files (CSS, App.js, etc.)
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
